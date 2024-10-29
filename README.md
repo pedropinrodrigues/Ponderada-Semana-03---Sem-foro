@@ -12,4 +12,4 @@ Para temporizar o semáforo eu usei um looping de, 6 segundos no vermelho, 2 seg
 | Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 3                        |                           |
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 3                        |                           |
 | Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 1                        |O extra é um buzzer que toca ao ligar a luz verde                           |
-|  |                                                             |  | |**Pontuação Total = 10**|
+|  |                                                             |  |10 |**Pontuação Total = 10**|
