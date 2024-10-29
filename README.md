@@ -1,6 +1,6 @@
 ## Relato da Ponderada:
 
-Para temporizar o semáforo eu usei um looping de, 6 segundos no vermelho, 2 segundos no amarelo, 4 segundos no verde e 2 segundos no amarelo.
+Para temporizar o semáforo eu usei um looping de, 6 segundos no vermelho, 2 segundos no amarelo, 4 segundos no verde e 2 segundos no amarelo. Além disso, como extra, fiz com que, ao a luz verde ligar um buzzer tocasse durante 500ms, para alertar os motoristas de que o semáforo abriu. 
 
 # Template Avaliação Pares
 
